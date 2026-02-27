@@ -6,3 +6,4 @@ AI review test
 Gemini test
 Gemini test
 Gemini test
+Gemini v2 test
